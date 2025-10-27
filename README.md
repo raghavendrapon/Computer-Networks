@@ -1,2 +1,2 @@
 # Computer-Networks
-lab manual
+Pratice Exercise
