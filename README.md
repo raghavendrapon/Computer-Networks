@@ -1,2 +1,2 @@
 # Computer-Networks
-Pratice Exercise
+Practice Exercise
